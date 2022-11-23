@@ -16,8 +16,8 @@ echo .
 apt install figlet toilet python3 curl ruby -y
 apt install python3-pip
 gem install lolcat
-echo This Tool Is Created By HACK3RY2J
-echo This Script Is Created By Panda Hackers HACK3RY2J >update.pandahackers
+echo This Tool Is Fire
+echo This Script Is Also Fire
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
